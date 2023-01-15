@@ -21,10 +21,10 @@ Frontenders é uma plataforma de mentoria/suporte para desenvolvedores nas mais 
 
 ## 📦 Desenvolvimento
 
-- [@mariadfporto](https://www.github.com/mariadfporto)
-- [@amandaalexandre](https://www.github.com/amandaalexandre)
-- [@williamfirmino92](https://www.github.com/williamfirmino92)
-- [@maurocmendes](https://www.github.com/maurocmendes)
+- [@anacarolina](https://www.github.com/dostoievs)
+- [@rafaelvalemtim](https://www.github.com/eurafaelvalemtim)
+- [@juanfernandes](https://www.github.com/juanjpf)
+- [@orlandojunior](https://www.github.com/Orl-andoJr)
 
 
 📌 Link do site aonde extraimos as fotos : https://unsplash.com/
@@ -36,22 +36,20 @@ Utilizamos o Figma para desenvolvimento do design
 
 ## 📄 O Site
 
-![image](https://user-images.githubusercontent.com/89873481/168308283-f9b9af94-4b4b-4797-8c51-7876b58499e9.png)
-![image](https://user-images.githubusercontent.com/89873481/168308426-bc593e58-dbb5-436e-8c25-4d4395997311.png)
-![image](https://user-images.githubusercontent.com/89873481/168308383-a2c68f38-73ac-49c6-9acd-8f99959dae74.png)
-![image](https://user-images.githubusercontent.com/89873481/168308497-98cd5389-2d22-4cc3-aed6-9cb876e2c02b.png)
+![image](https://)
+![image](https://)
+![image](https://)
+![image](https://)
 
 
 ## 📄 Versão Mobile
-![image](https://user-images.githubusercontent.com/89873481/168454231-be0411d4-d55b-41eb-a84a-bce5158b79ea.png)
+![image](https://)
 
 
 
-📌 Link do projeto no github Pages: https://williamfirmino92.github.io/08.Projeto-Frontenders-WF-/
+📌 Link do projeto no github Pages: https://
  
 
 
 ---
-⌨️ com ❤️ por William Firmino 😊
-
-
+⌨️ com ❤️ por Juan Fernandes 😊
