@@ -38,11 +38,6 @@ Frontenders é uma plataforma de mentoria/suporte para desenvolvedores nas mais 
 ![image](https://)
 
 
-## 📄 Versão Mobile
-![image](https://)
-
-
-
 📌 Link do projeto no github Pages: https://
  
 
